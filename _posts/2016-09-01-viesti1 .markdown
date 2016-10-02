@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Palveluketjun kustannus-hyötyanalyysi"
-subtitle:   "Julkishallinnon toimija: Palveluketjun kustannus-hyötyanalyysi"
+title:      "Julkishallinnon toimija:"
+subtitle:   "Palveluketjun kustannus-hyötyanalyysi"
 active: journal
 image:
   feature: "pc099.JPG"
