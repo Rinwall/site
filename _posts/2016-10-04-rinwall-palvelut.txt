@@ -1,12 +1,12 @@
 ---
 layout:     post
-title:      "Neljä on aina neljä"
-subtitle:   "Vai onko?"
+title:      "Rinwall Oy: palvelut"
+subtitle:   "Etsi tästä omasi"
 active: journal
 image:
-  feature: "300_5875.JPG"
-date:       2016-09-04 
-header-img: "img/postcover/300_5875.JPG"
+  feature: "tiina.png"
+date:       2016-10-04 
+header-img: "img/postcover/tiina.png"
 tags: [tag03]
 categories: [cat04]
 comments: false
