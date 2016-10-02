@@ -4,11 +4,11 @@ title:      "Uusi alku, uudet sivut?"
 subtitle:   "Sähköisen maailman elämänkaari"
 active: journal
 image:
-  feature: "tiina.png"
+  feature: "sumu.jpg"
 date:       2016-10-03 
-header-img: "img/postcover/tiina.png"
-tags: [tag03]
-categories: [cat04]
+header-img: "img/postcover/sumu.jpg"
+tags: [rinwall]
+categories: [uutinen]
 comments: false
 ---
 
