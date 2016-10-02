@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Toinen päivä"
-subtitle:   "Rinwallin uusi ilme"
+title:      "Napsahtaako yrittäjän jänne poikki?"
+subtitle:   "Arjen asettamat haasteet..."
 active: journal
 image:
   feature: "300_5856.JPG"
