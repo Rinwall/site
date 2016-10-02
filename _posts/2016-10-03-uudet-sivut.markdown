@@ -1,12 +1,12 @@
 ---
 layout:     post
-title:      "Around the World in 80 Days"
-subtitle:   "Jules Verne"
+title:      "Uusi alku, uudet sivut?"
+subtitle:   "Sähköisen maailman elämänkaari"
 active: journal
 image:
-  feature: "pc006.jpg"
-date:       2016-03-01 
-header-img: "img/postcover/pc006.jpg"
+  feature: "tiina.png"
+date:       2016-10-03 
+header-img: "img/postcover/tiina.png"
 tags: [tag03]
 categories: [cat04]
 comments: false
