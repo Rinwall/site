@@ -5,11 +5,12 @@ subtitle:   "Askel uuteen maailmaan?"
 active: journal
 image:
   feature: "300_6054.JPG"
-date:       2016-09-01 
+date:       2016-11-01 
 header-img: "img/postcover/300_6054.JPG"
 tags: [tag03]
 categories: [cat04]
 comments: false
 ---
 
-Runko poissa
+## Markdown formaatti ei toimi?
+
