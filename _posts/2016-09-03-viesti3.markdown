@@ -15,6 +15,7 @@ comments: false
 ## Helppo ja monimutkaisempi vastaus
 
 Helppo on se, että tiedetään, mitkä on yrityksen menot ja mitkä tulot. Hyöty on tarjouksen, tilauksen ja laskun kautta kotiutuva kilahdus tilillä. Kustannukset ovat kiinteitä tai muuttuvia, juoksevia menoja tai investointeja. Eli kaikki tekijät, mistä aiheutuu kassaan menoja. Kustannusten ja hyötyjen laskentakohde riippuu tarpeesta: halutaanko tieto saada tuotteittain (palveluittain), projekteittain, osastoittain, toimialoittain vai miten. Monimutkaisempi vastaus saadaan, kun lähdetään tarkastelemaan toimintaa palvelun tai tuotteen ympärillä.
+
 ## Analyysi ja strategia kohtaa
 
 Laskennan kohteen valinta kriittisen tärkeää. Saatavien lukujen avulla voidaan tehdä ratkaisevan tärkeitä päätöksiä, esimerkiksi panostaminen kustannustehokkaampaan tuotantoon. Tai jos lukuja ei ole, toiminta voi ohjautua kokemuksen ja näkemyksen perusteella. Kokemus ja näkemys voi vain olla riittämätön perustelu muille kuin toiminnan ohjaajalle. Miten tehtyjä toimia, esim. investointeja, voidaan tarkastella myöhemmin? Perustelut (=luvut) ja toiminnan systemaattinen ohjaaminen voi olla myöhemmin signaali rahoittajalle tai vaikka investointituen päättäjälle.
