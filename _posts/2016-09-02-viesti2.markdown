@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Napsahtaako yrittäjän jänne poikki?"
-subtitle:   "Arjen asettamat haasteet..."
+title:      "Kustannus-hyötyanalyysi - mitä se on?"
+subtitle:   " Osa 2. Julkishallinnon näkökulma"
 active: journal
 image:
   feature: "300_5856.JPG"
@@ -13,20 +13,14 @@ comments: false
 ---
 
 
-Napsahtaako yrittäjän jänne poikki?
+## Vastauksen hahmottelua
+Kustannus-hyötyanalyysi julkishallinnon palvelusta on monimutkaisempi hahmottaa. Kustannuksia voidaan tarkastella tuotannontekijöiden ja tekemisen kautta, mutta hyöty-puoli on moniselitteisempi. Panos-tuotos voi ajatuksena olla selvä, mutta toiminnan seuraamista ja ohjaamista varten olisi oltava toimivia keinoja tunnistaa ja kohdistaa kustannuksia ja hyötyjä. Tarkastelun on ulotuttava koko palvelun tuotantoketjuun, missä nähdään tuotannontekijät, prosessi, palvelu ja sen vaikuttavuus.
+Hyödyn arvottaminen ei välttämättä ole aina tarpeen esim. lakisääteisiin tehtäviin liittyvissä palveluissa. Kustannukset sen sijaan kiinnostavat. Hyöty voi näkyä euro-määräisesti liiketoimintayksikön kautta, tai se voidaan arvottaa palvelua käyttävän tahon hyödyn perusteella (esim. julkishallinnon palvelua käyttävän kansalaisen ajankäytön säästön arviointi ja arvottaminen).
 
-Tulipa vahingon kautta tilaisuus tuumata hetki yrittäjänä olemista. Kävi nimittäin niin, että kaaduin alamäessä pyörällä, ja olkapää lakkasi liikkumasta tämän seurauksena. Kotona tutkailin vahinkoja: reidet täynnä mustelmia, isovarpaan tyvi turvonnut ja kipeä. Käsi roikkui velttona, mutta ei ollut kipeä. No, mitä tekee suomalainen ihminen: lähtee pitkälle, mutta rauhalliselle lenkille koiran kanssa.
+## Ennakointi kustannus-hyötyanalyysissä
 
-Illalla isovarpaan tyvi vihoitteli enemmän, ja jouduin taipumaan: ei kannata kikkailla, annetaan “haavojen” parantua. Käsi edelleen roikkui, mutta arvelin, että kyllä se siitä seuraavaan päivään. Tuli seuraava päivä, ja käsi ei kun roikkuu. Yöllä ajattelin, että jopa on kova turvotus ja tälli, kun herään aina, kun vähän asentoa vaihdan. Niin, eihän loukkaantuneen käden puolella voinut nukkua: kokeilin, mutta tuntui aika kuhmuraiselle ja silloin, kipeälle.
+Uusia liiketoimintamalleja mietitään. Kantaaottavana kommenttina voi sanoa, että julkishallinnon toimijoiden on hyvä miettiä itsensä ja palvelunsa osaksi ekosysteemejä. On proaktiivista asemoida oma organisaatio osaksi yksityisistä, julkishallinnon ja ns. kolmannen sektorin toimijoista koostuvaa arvoverkostoa. Mitä aiemmin on liikkeellä asian hahmottamisessa, sitä paremmin petaa tulevaa.
+Miksi? Yritysten, virastojen ym. toimintakentät, tekemisten rajat ja palveluntuotannot ovat muuttuneet ja tulevat muuttumaan. Paljon voidaan ennakoida, politiikka ja trendit esimerkiksi ohjaavat kenttää. Kokeilut mahdollistavat nyt monelle taholle uusien liiketoimintamallien koestamisen. Liiketoimintamallit ja ansaintalogiikat eivät aina ole selviä yrityksilläkään - mitä ne voivat olla julkishallinnon toimijalla sovellettuna omaan toimintakenttään? Oman kyvykkyyden tunnistaminen voi tuottaa organisaatiolle paljon. Se vahvistaa työntekijöiden vahvuuksien tunnistamista paitsi yksilötasolla niin myös joukkueena. Kokonaisuuden näkeminen, palveluketjun ja -verkon tunnistaminen ja oman työn näkeminen osana tätä, tuo merkitystä työntekijälle. Oman työn näkeminen osana organisaation tekemistä voi aukaista paljon sellaista, mistä johto ei tiedäkään: Jokaisessa työntekijässä voi piillä tunnistamattomia timanttisen palvelun rakennustekijöitä.
+Seuraavaksi käsitellään esimerkkien kautta aihetta konkreettisemmaksi. Pysykää kuulolla!
 
-No lääkäriin, tuumasin seuraavana aamuna. Käydään varalta, josko vaikka sidos laitetaan ja ohjeistetaan, että nyt hetki rauhassa. Mutta ei. Diagnoosi: Jänne on joko venähtänyt pahasti, osittain katki tai poikki kokonaan. Viikon päästä uusi tapaaminen ja jos käsi ei nouse, ortopedille.
-
-Lääkäri kysyi, että tarvitsenko sairaslomaa. Lomaa? Aivotyöläisenä ja yrittäjänä eihän tuo nyt ollut minulle relevantti kysymys. Lomalla työstä, tekemässä mitä? Miettimässä käden tilannetta? Haittana tuo on olematon työni teon kannalta,  mitä nyt hetken henkisesti ahisti (otti kyllä kupoliin satakympillä), kun hyvin alkaneet urheiluharrastukset piti henkisesti hyvästellä ainakin hetkeksi. Matalalentoa muutama tunti, sisuuntumista, hevimusiikkia luukutus-volyymilla, ja päätä pystyyn. Periksi ei anneta, lokaan ei jäädä makaamaan.
-
-Pitkäjännitteinen ja kärsivällinen
-
-Pitkäjänniteinen, tai pitkäjänteisyys tarkoittaa sitkeyttä, lähiaikaa pitemmälle tähtäävää (Kysy.fi-Helsingin kaupunginkirjasto). Kärsivällinen-kärsiä-sietää. Ihan niinkuin yrittäjän elämässäkin. Ja työelämässä ylipäätään. Pitkäjännitteistä toimintaa, jotta asiat saadaan tehtyä. Vaatii kärsivällisyyttä, sitkeyttä ja sitä tekemistä. Palkintoa ei haeta nopeilla toimilla, vaan matkan teko on jatkuvaa. No, nyt kun fyysinen jänteeni meni rikki, niin pinnan pitää venyä. Henkisen jänteen on oltava sitkeä. 
-
-Kärsiä-välillä tulee takapakkia, iskuja, kuin matto katoaisi alta. Kirpaisee, harmittaa, hävettää, suunta hukkuu. Miten sen voisi sietää? Vetäydyn, en naamaani ulos näytä, kärsin ja nuolen itse haavani. Vai kannattaisko sittenkin helpommin ja nopeammin toipua kärsimyksestä jakamalla asiaa kanssaihmisille? Kaikki me joskus kärsimme, vähän, paljon tai niin, että tuntuu kuin maailma romahtaisi. Kaikki me. Koska se kuuluu elämään. Entäs jos voisin hyväksyä elämän, ja kärsimisen osana sitä? Sietäisin sen. Ensin masennun, mutta en jaksa jäädä rypemään. Haen voimaantumisen siitä, mistä voimaa saan. Minä sen saisin reippaasta liikunnasta (umpihankikävely, metsässä juokseminen-vaan kun nyt ei voi) tai voimamusiikista. Hirveestä mätöstä. Se auttaa! Nostaa pään taas pystyyn ja lähtee vipattaa jalkaa, ajatuksia ja koko ihmistä.
-
-Että tämmöstä kustannus-hyötyjen sekaan. Luvassa ehkä vielä jatkokertomus, Pannaanko pakettiin vai meneekö siltään?!
+*Tiina Rintamäki*
