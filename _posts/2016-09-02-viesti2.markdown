@@ -4,9 +4,9 @@ title:      "Kustannus-hyötyanalyysi - mitä se on?"
 subtitle:   " Osa 2. Julkishallinnon näkökulma"
 active: journal
 image:
-  feature: "300_5856.JPG"
+  feature: "300_5875.JPG"
 date:       2016-10-06 
-header-img: "img/postcover/300_5856.JPG"
+header-img: "img/postcover/300_5875.JPG"
 tags: [tag03]
 categories: [cat04]
 comments: false
