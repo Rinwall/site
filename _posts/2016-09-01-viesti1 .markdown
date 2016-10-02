@@ -5,7 +5,7 @@ subtitle:   "Askel uuteen maailmaan?"
 active: journal
 image:
   feature: "300_6054.jpg"
-date:       2016-03-01 
+date:       2016-09-01 
 header-img: "img/postcover/300_6054.jpg"
 tags: [tag03]
 categories: [cat04]

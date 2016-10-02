@@ -4,9 +4,9 @@ title:      "Viisi kertaa kuussa on lähes kerran viikossa"
 subtitle:   "Arkipäivän matematiikaa"
 active: journal
 image:
-  feature: "pc099.jpg"
-date:       2016-03-01 
-header-img: "img/postcover/pc099.jpg"
+  feature: "300_6000.jpg"
+date:       2016-09-05 
+header-img: "img/postcover/300_6000.jpg"
 tags: [tag03]
 categories: [cat04]
 comments: false

@@ -4,9 +4,9 @@ title:      "Toinen päiv"
 subtitle:   "Rinwallin uusi tuleminen"
 active: journal
 image:
-  feature: "pc006.jpg"
-date:       2016-03-01 
-header-img: "img/postcover/pc006.jpg"
+  feature: "300_5856.jpg"
+date:       2016-09-02 
+header-img: "img/postcover/300_5856.jpg"
 tags: [tag03]
 categories: [cat04]
 comments: false
