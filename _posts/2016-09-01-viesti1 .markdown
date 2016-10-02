@@ -1,18 +1,33 @@
 ---
 layout:     post
-title:      "Ensimmäinen yhteys"
-subtitle:   "Askel uuteen maailmaan?"
+title:      "Palveluketjun kustannus-hyötyanalyysi"
+subtitle:   "Julkishallinnon toimija: Palveluketjun kustannus-hyötyanalyysi"
 active: journal
 image:
-  feature: "300_6054.JPG"
-date:       2016-11-01 
-header-img: "img/postcover/300_6054.JPG"
-tags: [tag03]
-categories: [cat04]
+  feature: "pc099.JPG"
+date:       2016-10-05 
+header-img: "img/postcover/pc099.JPG"
+tags: [rinwall]
+categories: [palvelut]
 comments: false
 ---
 
-## Markdown formaatti ei toimi?
 
-Onko teksti mahdollista kirjoittaa markdownilla?
 
+## Kustannusrakenteen avaaminen
+
+Tarkastellaan yhden viraston yhtä palvelua. Palvelu on nimetty ja tiedetään kenelle palvelua tehdään. Mutta ketkä palvelua tekevät, missä vaiheessa, missä roolissa ja minkä verran? Entä mitä muuta tarvitaan, että palvelu saadaan tuotettua, ylläpidettyä ja kehitettyä sitä?
+
+Palveluketjun kuvaaminen, esim. Blueprint tai muu prosessimainen kuvaus, koostaa tekijät samaan näkymään. Kuvauksen avulla nähdään, mitä ulkoa ostettavia palveluita, keiden työpanosta ja muita (kustannus)tekijöitä liittyy palvelun tuotantoon. Jos oman henkilöstön työmäärän arviointi on liian hankalaa määrittää tätä kautta, voisi henkilöiden työpanoksen jakautumista arvioida. Eli, minkä kaikkien palveluiden tuotantoon (ylläpito,kehittäminen) henkilö osallistuu, ja miten hän arvioi työpanoksensa jakautuvan eri palveluiden kesken. Karkeista arvioista on hyvä lähteä liikkeelle, jotta arvioita saadaan tarkennettua ajan myötä. Näin saadaan työmäärät “jyvitettyä” palveluittain. Kuvaamisen avulla on mahdollista saada laaja joukko osallistumaan palvelun määrittämiseen. Jos kuvaus, tai kustannustekijöiden listaus, tehdään vain johtajien huoneissa, jää jotain olennaista todennäköisesti huomaamatta. Palveluntuotantoprosessiin osallistuvien on nähtävä kokonaisuus oman työpanoksen hahmottamista varten, ja toiminnan kehittämisen kannalta kokonaisuuden hahmotus on tärkein ehto. Toiminnan kustannustekijöiden määritys mahdollistaa kustannusten seurannan ja ennustamisen sekä antaa mahdollisuudet tavoitteiden asettamiselle. Kuvaus tuo tukea myös riskien määrittämiselle sekä riskien taloudellisten vaikutusten arvioinnille.
+Myös muut kulurakennetta kuormittavat tekijät on hyvä tiedostaa. Kiinteät kustannukset, kuten johdon ja tukitoimintoja (esim. viestintä) tuottavan henkilöstön palkkakulut, toimitilakustannukset ym. jakaantuvat koko organisaatiolle. En käsittele niitä ja niiden merkitystä tässä tarkemmin, koska niiden merkitys liittyy tätä tarkastelua isompaan kokonaisuuteen. Jos kustannus-hyötyrakenteita katsotaan koko organisaation laajuudelta, on tämä olennainen ja tärkeä tarkasteltava erä.
+
+##Hyödyn hahmotus
+
+Miksi on tärkeää tietää ensisijainen asiakas, potentiaalinen asiakas ja muut sidosryhmät? Sidosryhmäkartta tuo mahdollisuudet näkyviin, ja antaa tukea strategiatyölle, mutta operatiivista palveluntuotantoa ohjaava työkalu se ei ole. Oman toiminnan ja palveluiden asemointi ja kyky toimia/toimittaa palvelua laajemminkin on perusteltua nopeasti muuttuvassa yhteiskunnassamme.
+Verovaroin on tärkeintä tuottaa mahdollisimman perusteltua palvelua. Palvelun tuotanto ja kehitys on tehtävä asiakkaan tarpeesta käsin. Kansalaisten on kiva tietää satunnaisesti jotain vaikka kulttuuriin tai ympäristöön liittyvää, mutta jos tuotettava palvelu on kriittinen toiselle valtion virastolle/laitokselle, on tämän sidosryhmän (asiakkaan) huomiointi keskiössä (nyt tarkoitan, ettei palvelua tuoteta ensisijaisesti kansalaisen käyttöä varten). Ensisijaisen asiakkaan paras palvelu tarkoittaa, että omaa tekemistä ohjaa koko ajan palvelun tuottaminen ja kehittäminen asiakkaan tarpeista käsin. Kun asiakas on mukana kehitystyössä, minimoidaan turha työ. Tämä on win-win-tilanne ja resurssiviisautta. Molempien tekeminen hyödyttää toista, päällekkäinen tekeminen saadaan minimiin ja palvelut voivat toimia ketjuna, rikastuen eri asiantuntemuksilla matkan varrella.
+
+## Iso kuva
+
+Miksi organisaation on tärkeää nähdä koko oma kuva? Siksi että vaihtoehtolaskelmia palvelun tuotannon tekemisestä tekee jossain vaiheessa joku muu: asiakas tai toiminnan tarkastaja. Mitä selkeämmin kustannus-hyötyrakenteet on selvitetty ja esitettävissä, sen helpompi se on osoittaa ulkopuolisille. Toisaalta myös toimijan arvo, ja toiminnan tapa (systemaattisuus, palvelun tuotannon hahmotus) on osoitettavissa.  Kaikki organisaatiot joutuvat jossain vaiheessa miettimään, tehdäänkö itse (tai tekeekö joku muu julkinen toimija palvelua - mikä on siellä hintalappu palvelun tuotannolle), ostetaanko ulkoa vai tuotetaanko palvelua yhdessä muiden toimijoiden kanssa.Siilojen purku, yhteistyö/yhdessä kehittäminen ja tekeminen niin, että asiakkaan tarpeet ovat keskiössä keskiössä vahvistaa toimijoita. Yhteistyö, kyvykkyyden löytäminen ja hyödyntäminen sekä rohkea ympärille katsominen tuottaa parhaan lopputuloksen julkishallinnonkin toimijoilla!
+
+*Tiina Rintamäki* 
