@@ -4,9 +4,9 @@ title:      "Neljä on aina neljä"
 subtitle:   "Vai onko?"
 active: journal
 image:
-  feature: "300_5793.jpg"
+  feature: "300_5793.JPG"
 date:       2016-09-04 
-header-img: "img/postcover/300_5793.jpg"
+header-img: "img/postcover/300_5793.JPG"
 tags: [tag03]
 categories: [cat04]
 comments: false

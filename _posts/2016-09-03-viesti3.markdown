@@ -4,9 +4,9 @@ title:      "Kolmas kerta toden sanoo"
 subtitle:   "Kolmen kopla"
 active: journal
 image:
-  feature: "300_5793.jpg"
+  feature: "300_5793.JPG"
 date:       2016-09-03 
-header-img: "img/postcover/300_5793.jpg"
+header-img: "img/postcover/300_5793.JPG"
 tags: [tag03]
 categories: [cat04]
 comments: false
