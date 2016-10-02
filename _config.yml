@@ -1,21 +1,21 @@
 # Site settings
-title: PHOTORAMA
+title: Rinwall Oy
 email: ""
-description: "Photo Journal"
+description: "Rinwall kotisivut"
 url: "https://rinwall.github.io/"
 baseurl: "/site"
-facebook_username: ""
-twitter_username: ""
+facebook_username: "rinwall"
+twitter_username: "rinwall"
 instagram_username: ""
-github_username:  ""
+github_username:  "rinwall-admin"
 deviantart_username: ""
 flickr_username: ""
-discus_shortname: ""
+discus_shortname: "rinwall"
 share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   rinwall
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
