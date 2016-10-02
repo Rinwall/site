@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Around the World in 80 Days"
-subtitle:   "Jules Verne"
+title:      "Ensimmäinen yhteys"
+subtitle:   "Askel uuteen maailmaan?"
 active: journal
 image:
   feature: "300_6054.jpg"
