@@ -1,12 +1,12 @@
 ---
 layout:     post
-title:      "Around the World in 80 Days"
-subtitle:   "Jules Verne"
+title:      "Viisi kertaa kuussa on lähes kerran viikossa"
+subtitle:   "Arkipäivän matematiikaa"
 active: journal
 image:
-  feature: "pc006.jpg"
+  feature: "pc099.jpg"
 date:       2016-03-01 
-header-img: "img/postcover/pc006.jpg"
+header-img: "img/postcover/pc099.jpg"
 tags: [tag03]
 categories: [cat04]
 comments: false

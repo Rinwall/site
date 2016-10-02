@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Around the World in 80 Days"
-subtitle:   "Jules Verne"
+title:      "Toinen päiv"
+subtitle:   "Rinwallin uusi tuleminen"
 active: journal
 image:
   feature: "pc006.jpg"

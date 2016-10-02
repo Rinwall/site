@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Around the World in 80 Days"
-subtitle:   "Jules Verne"
+title:      "Kolmas kerta toden sanoo"
+subtitle:   "Kolmen kopla"
 active: journal
 image:
   feature: "pc006.jpg"
