@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Kolmas kerta toden sanoo"
-subtitle:   "Kolmen kopla"
+title:      "Kustannus-hyötyanalyysi - mitä se on?"
+subtitle:   "Osa 1. Yrityksen näkökulma"
 active: journal
 image:
   feature: "300_5793.JPG"
@@ -12,4 +12,16 @@ categories: [cat04]
 comments: false
 ---
 
-Runko puuttuu
+## Helppo ja monimutkaisempi vastaus
+
+Helppo on se, että tiedetään, mitkä on yrityksen menot ja mitkä tulot. Hyöty on tarjouksen, tilauksen ja laskun kautta kotiutuva kilahdus tilillä. Kustannukset ovat kiinteitä tai muuttuvia, juoksevia menoja tai investointeja. Eli kaikki tekijät, mistä aiheutuu kassaan menoja. Kustannusten ja hyötyjen laskentakohde riippuu tarpeesta: halutaanko tieto saada tuotteittain (palveluittain), projekteittain, osastoittain, toimialoittain vai miten. Monimutkaisempi vastaus saadaan, kun lähdetään tarkastelemaan toimintaa palvelun tai tuotteen ympärillä.
+## Analyysi ja strategia kohtaa
+
+Laskennan kohteen valinta kriittisen tärkeää. Saatavien lukujen avulla voidaan tehdä ratkaisevan tärkeitä päätöksiä, esimerkiksi panostaminen kustannustehokkaampaan tuotantoon. Tai jos lukuja ei ole, toiminta voi ohjautua kokemuksen ja näkemyksen perusteella. Kokemus ja näkemys voi vain olla riittämätön perustelu muille kuin toiminnan ohjaajalle. Miten tehtyjä toimia, esim. investointeja, voidaan tarkastella myöhemmin? Perustelut (=luvut) ja toiminnan systemaattinen ohjaaminen voi olla myöhemmin signaali rahoittajalle tai vaikka investointituen päättäjälle.
+
+## Voimmeko olla tuottavampia tai aukaista uusia portteja?
+
+Tekemisen tavan tarkastelu auttaa kustannusten ja hyötyjen tarkastelussa ja toiminnan tuloksellisuuden parantamisessa. Voidaanko jotain tehdä helpommin tai yksinkertaisemmin, jolloin tekeminenkin muuttuu mielekkäämmäksi? Ja tästä vielä jos saadaan säästöä, aina parempi. Prosessin tarkastelussa ja muutoksissa voidaan törmätä LEANin tai digitalisaation mahdollistamiin taloutta parantaviin ratkaisuihin. Miten voimme tehdä jonkin asian yksinkertaisemmin hyödyntäen automatisointia, tai miten yksinkertaistamme asiakkaan ostoprosessia? Osaamisen kartoittaminen ja porukalla toiminnan ideointi voi aukaista uusia liiketoimintamahdollisuuksia.
+Seuraava kirjoitus  valottaa kustannus-hyötyanalyysin käsitettä julkishallinnon näkökulmasta.
+
+*Tiina Rintamäki*
