@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://rinwall.github.io/site/gallery/"  
-  - JOURNAL: "https://rinwall.github.io/site/journal/"
-  - ABOUT: "https://rinwall.github.io/site/about/"
+  - Rinwall Oy: "https://rinwall.github.io/site/rinwall/"
+  - Ajatuksiamme : "https://rinwall.github.io/site/journal/"
+  - Yhteystiedot: "https://rinwall.github.io/site/about/"
 
 # All translation keys
 translations:
