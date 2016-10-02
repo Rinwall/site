@@ -5,7 +5,7 @@ subtitle:   " Osa 2. Julkishallinnon näkökulma"
 active: journal
 image:
   feature: "300_5856.JPG"
-date:       2016-09-02 
+date:       2016-10-06 
 header-img: "img/postcover/300_5856.JPG"
 tags: [tag03]
 categories: [cat04]
