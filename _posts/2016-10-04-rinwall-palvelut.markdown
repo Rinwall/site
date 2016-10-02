@@ -4,9 +4,9 @@ title:      "Rinwall Oy: palvelut"
 subtitle:   "Etsi tästä omasi"
 active: journal
 image:
-  feature: "tiina.jpg"
+  feature: "our-services.jpg"
 date:       2016-10-04 
-header-img: "img/postcover/tiina.jpg"
+header-img: "img/postcover/our-services.jpg"
 tags: [palvelumme]
 categories: [palvelu]
 comments: false
