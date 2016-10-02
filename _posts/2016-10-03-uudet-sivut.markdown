@@ -4,9 +4,9 @@ title:      "Uusi alku, uudet sivut?"
 subtitle:   "Sähköisen maailman elämänkaari"
 active: journal
 image:
-  feature: "sumu.jpg"
+  feature: "sumu.JPG"
 date:       2016-10-03 
-header-img: "img/postcover/sumu.jpg"
+header-img: "img/postcover/sumu.JPG"
 tags: [rinwall]
 categories: [uutinen]
 comments: false
