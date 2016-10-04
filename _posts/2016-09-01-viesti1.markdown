@@ -4,9 +4,9 @@ title:      "Julkishallinnon toimija:"
 subtitle:   "Palveluketjun kustannus-hyötyanalyysi"
 active: journal
 image:
-  feature: "pc099.JPG"
-date:       2016-10-05 
-header-img: "img/postcover/pc099.JPG"
+  feature: "P6260067.JPG"
+date:       2016-10-10 
+header-img: "img/postcover/P6260067.JPG"
 tags: [rinwall]
 categories: [palvelut]
 comments: false
