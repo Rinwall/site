@@ -33,11 +33,11 @@ comments :
 
 # Internal nav
 nav:
-  - Rinwall Oy: "http://rinwall.com/site/Rinwall/"
-  - Palvelumme: "http://rinwall.com/site/services/"
-  - Ajatuksia : "http://rinwall.dom/site/journal/"
+  - Rinwall Oy: "http://rinwall.com/Rinwall/"
+  - Palvelumme: "http://rinwall.com/services/"
+  - Ajatuksia : "http://rinwall.com/journal/"
   - Blogi: "http://rinwall.blogspot.fi/"
-  - Yhteystiedot: "http://rinwall.com/site/about/"
+  - Yhteystiedot: "http://rinwall.com/about/"
 
 # All translation keys
 translations:
