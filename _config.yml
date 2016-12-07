@@ -2,7 +2,7 @@
 title: Rinwall Oy
 email: ""
 description: "Rinwall kotisivut 2016"
-url: "http://rinwall.com/"
+url: "http://rinwall.com"
 baseurl: "/site"
 facebook_username: "rinwall"
 twitter_username: "rinwall"
@@ -33,11 +33,11 @@ comments :
 
 # Internal nav
 nav:
-  - Rinwall Oy: "https://rinwall.com/site/Rinwall/"
-  - Palvelumme: "https://rinwall.com/site/services/"
-  - Ajatuksia : "https://rinwall.dom/site/journal/"
+  - Rinwall Oy: "http://rinwall.com/site/Rinwall/"
+  - Palvelumme: "http://rinwall.com/site/services/"
+  - Ajatuksia : "http://rinwall.dom/site/journal/"
   - Blogi: "http://rinwall.blogspot.fi/"
-  - Yhteystiedot: "https://rinwall.com/site/about/"
+  - Yhteystiedot: "http://rinwall.com/site/about/"
 
 # All translation keys
 translations:
